@@ -389,7 +389,7 @@ if len(sys.argv) == 2:
 		print(" [*] Team      :  \n") Witcher 
 		print(" [ Sosial Medi  ] \n") Mian Zain
 		print(" [*] Facebook  : https://facebook.com/ ")ZAIN07.ALI
-		print(" [*] Instagram : https://instagram.com/ ")NOP 🍬
+		print(" [*] Instagram : https://instagram.com/ ")
 		print(" [*] YouTube   : https://youtube.com/ ")UCWZvs9eQPOj3x3AhInRtpxg
 		exit(" [*] GitHub    : https://github.com/ ")Munafiq
 	else:
